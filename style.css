@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Halimum;
+    src: url(Halimun.ttf);
+}
+
+.visible-links a{
+    font-family: Halimum;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+/* .greedy-nav .visible-links li:first-child a {
+    margin-left: 500px;
+} */
+
+.page__content h1 {
+    padding-bottom: 0.5em;
+    /* border-bottom: 1px solid #f2f3f3; */
+    border-bottom: 1px solid #d3d3d3;
+    font-size: 33px;
+}
